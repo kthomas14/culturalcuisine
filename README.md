@@ -9,17 +9,18 @@ Why are some cultural cuisines more accommodating to dietary restrictions than o
 
 ## Accompanying Map Figures (full interactive maps available upon download of /interactive maps/ folder)
 
-Sample of New York City Area with labelled and color coordinated data points according to cuisine type
+**Sample of New York City Area with labelled and color coordinated data points according to cuisine type:**
 
-![map](whatever.jpeg)
+![map](images/ny_labelled.png)
 
-Sample of Orlando Area with labelled and color coodrinated data points according to cuisine type
+**Sample of Orlando Area with labelled and color coodrinated data points according to cuisine type:**
 
-![map](whatever.jpeg)
+![map](images/orl_labelled.png)
 
-Heat Display of New York City area showing dispersion of Restaurants with Plant-Based options
+**Heat Display of New York City area showing dispersion of options across restaurants:**
 
-![map](whatever.jpeg)
+![map](images/ny_heat.png)
 
-Heat Display of Orlando area showing dispersion of Restaurants with Plant-Based options
-![map](whatever.jpeg)
+**Heat Display of Orlando area showing dispersion of Plant-Based options across restaurants:**
+
+![map](images/orl_heat.png)
